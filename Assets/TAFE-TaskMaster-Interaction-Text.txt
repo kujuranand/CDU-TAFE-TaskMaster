@@ -1,0 +1,29 @@
+Hard Hat
+A hard hat is a protective headgear designed to prevent injuries from falling objects and impacts on the job site.
+Press [Y] to put on the Hard Hat.
+Hard Hat on! You're now protected from overhead hazards.
+
+Hi-Vis Shirt
+A Hi-Vis Shirt increases visibility, reducing the risk of accidents in low-visibility or high-traffic areas.
+Press [Y] to put on the Hi-Vis Shirt.
+Hi-Vis Shirt on! You're now easily visible, keeping you safe in busy work environments.
+
+Safety Boots
+Safety boots provide essential protection, preventing injuries from falling objects, slips, and sharp surfaces.
+Press [Y] to put on the Safety Boots.
+Safety Boots on! Your feet are now protected from heavy objects and sharp hazards.
+
+Red Card
+The Red Card permits you to perform electrical tasks, ensuring you're qualified and safe to work with electrical systems.
+Press [Y] to pick up the Red Card.
+Red Card secured! You’re now certified to carry out electrical work.
+
+White Card
+The White Card certifies that you've completed safety training, allowing you to work on construction sites safely.
+Press [Y] to pick up the White Card.
+White Card ready! You're now authorised to work on construction sites.
+
+Coffee
+Ah, you found Glenn's coffee! You're a real lifesaver—he can't function without it!
+Press [Y] to continue...
+You've scored some extra points for this one!
